@@ -1,0 +1,9 @@
+﻿  obfuscator.cpp
+E:\Cursuri\Master\2nd Year 1st Semester\2. Source Code Programming Security\Assignment 5 - project\Obfuscator\Obfuscator\obfuscator.cpp(86,7): warning C4101: 'buffer': unreferenced local variable
+E:\Cursuri\Master\2nd Year 1st Semester\2. Source Code Programming Security\Assignment 5 - project\Obfuscator\Obfuscator\obfuscator.cpp(130,20): warning C4018: '<': signed/unsigned mismatch
+E:\Cursuri\Master\2nd Year 1st Semester\2. Source Code Programming Security\Assignment 5 - project\Obfuscator\Obfuscator\obfuscator.cpp(151,20): warning C4018: '<': signed/unsigned mismatch
+E:\Cursuri\Master\2nd Year 1st Semester\2. Source Code Programming Security\Assignment 5 - project\Obfuscator\Obfuscator\obfuscator.cpp(196,20): warning C4018: '<': signed/unsigned mismatch
+E:\Cursuri\Master\2nd Year 1st Semester\2. Source Code Programming Security\Assignment 5 - project\Obfuscator\Obfuscator\obfuscator.cpp(227,20): warning C4018: '<': signed/unsigned mismatch
+E:\Cursuri\Master\2nd Year 1st Semester\2. Source Code Programming Security\Assignment 5 - project\Obfuscator\Obfuscator\obfuscator.cpp(275,20): warning C4018: '<': signed/unsigned mismatch
+E:\Cursuri\Master\2nd Year 1st Semester\2. Source Code Programming Security\Assignment 5 - project\Obfuscator\Obfuscator\obfuscator.cpp(363,34): warning C4018: '<': signed/unsigned mismatch
+  Obfuscator.vcxproj -> E:\Cursuri\Master\2nd Year 1st Semester\2. Source Code Programming Security\Assignment 5 - project\Obfuscator\Debug\Obfuscator.exe
